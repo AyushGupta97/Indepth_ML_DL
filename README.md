@@ -7,3 +7,5 @@ The goal of this repository is to go into the fundamentals of models and try to 
 
 This sounds like a lot of of repetitive work, however, this would lead to getting a well round understanding of the topics
 The repo will cover Supervised Learning, Unsupervised Learning, Deep learning models related to NLP and LLMs
+
+I am going to try creating digital notes, if that's too time consuming then I'll work with jupyter notebooks with extensive markdowns for each step or well docummented comments.
